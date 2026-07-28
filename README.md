@@ -33,7 +33,7 @@ LoRA/QLoRA, instruction-style fine-tuning, prompt engineering (few-shot), раб
 Градиентный бустинг (LightGBM, XGBoost, CatBoost), логистическая регрессия, метрики (ROC-AUC, F1, Precision, Recall), SHAP-интерпретация.
 
 **Инструменты и инфраструктура:**  
-Git, Docker, Linux, Jupyter, FastAPI, MLflow (в процессе изучения).
+Git, Docker, Linux, Jupyter, FastAPI, MLflow.
 
 ---
 
